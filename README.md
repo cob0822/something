@@ -1,1 +1,1 @@
-# syncle
+# Laravel-Nuxt-template
